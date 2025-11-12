@@ -1,3 +1,10 @@
 *.txt
 */target/*
 *.zip
+*.lock
+
+/Muehle-mit-Rust/*
+
+# Added by cargo
+
+/target
